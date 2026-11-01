@@ -73,7 +73,3 @@ Tapşırıq təqdim olunmuş API tələbləri və insident logları əsasında h
 Bəzi biznes qaydaları və texniki davranışlar tələblərdə tam müəyyənləşdirilmədiyindən, müvafiq qeyri-müəyyənliklər ayrıca sənədləşdirilmişdir.
 
 Test case-lər gözlənilən nəticələr əsasında hazırlanmışdır. Real API mühitində icra nəticələri kimi təqdim edilmir.
-
-## Yekun
-
-Bu işdə əsas diqqət yalnız test case hazırlanmasına deyil, həm də tələblərin düzgün anlaşılmasına, maliyyə risklərinin müəyyənləşdirilməsinə, problemlərin analizinə və testlərin prioritetləşdirilməsinə yönəldilmişdir.
